@@ -2,4 +2,5 @@ import datetime
 
 date = datetime.datetime.now()
 
-print(date.strftime("%y - %m -%d"))
+#cambio de formato de la fecha
+print(date.strftime("%y/%m/%d"))
