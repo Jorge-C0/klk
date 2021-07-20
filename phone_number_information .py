@@ -1,3 +1,5 @@
+#necesario para que el codigo corra
+# pip install phonenumbers
 
 import phonenumbers
 from phonenumbers import geocoder, carrier, timezone
